@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pyospackage-tirthjoshi"
+version = "0.1.0"
+description = "A practice package for DSCI 524 individual assignment"
+authors = [
+    { name = "Tirth Joshi", email = "tirth.joshi@example.com" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+]
+
+[project.urls]
+Homepage = "https://github.com/tirthjoshi/pyospackage-tirthjoshi"
+Repository = "https://github.com/tirthjoshi/pyospackage-tirthjoshi"
