@@ -10,6 +10,8 @@ This package provides simple mathematical functions for adding and subtracting n
 
 ### From TestPyPI
 
+View on TestPyPI: https://test.pypi.org/project/pyospackage-tirthjoshi/
+
 ```bash
 pip install -i https://test.pypi.org/simple/ pyospackage-tirthjoshi
 ```
@@ -17,7 +19,7 @@ pip install -i https://test.pypi.org/simple/ pyospackage-tirthjoshi
 ### From source
 
 ```bash
-git clone https://github.com/tirthjoshi/pyospackage-tirthjoshi.git
+git clone https://github.com/tirthjoship/pyospackage-tirthjoshi.git
 cd pyospackage-tirthjoshi
 pip install -e .
 ```
